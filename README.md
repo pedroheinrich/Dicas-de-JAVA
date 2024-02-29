@@ -1,3 +1,6 @@
+![image](https://github.com/pedroheinrich/Dicas-de-JAVA/assets/97209403/dafa795d-57e7-4bd9-ae9e-8fde91e3c801)
+
+
 # Aprendendo Java
 
 Bem-vindo ao repositório **"Aprendendo Java"**! Aqui você encontrará recursos e tutoriais para aprender e aprimorar suas habilidades em Java, uma das linguagens de programação mais populares do mundo.
