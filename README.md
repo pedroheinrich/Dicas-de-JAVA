@@ -19,7 +19,7 @@ Se você tem conhecimento em Java e gostaria de contribuir com este repositório
 
 ## Sobre o Autor
 
-Este repositório é mantido por [pedroheinrich](https://github.com/seu-usuario). Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+Este repositório é mantido por [pedroheinrich](https://github.com/pedroheinrich). Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
 
 
